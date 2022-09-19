@@ -59,7 +59,7 @@ func main() {
 
 ### DOCUMENTATION
 
-Check out the [documentation(COMING SOON)](#) for further details on the functions available.
+Check out the [documentation](https://pkg.go.dev/github.com/3dfosi/gocrypt@v0.0.0-20220919050132-73b9f718fcb9) for further details on the functions available.
 
 
 ### CHANGE
